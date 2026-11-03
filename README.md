@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com" width="220" alt="Logo LuftmandMauricio">
+</p>
+
 # ¡Hola! Soy Mauricio (LuftmandMauricio) 👋
 
 ¡Bienvenido a mi espacio de desarrollo! Soy un creador de soluciones tecnológicas enfocado en **automatizar tareas, optimizar procesos y facilitar el trabajo del día a día** a través del software.
